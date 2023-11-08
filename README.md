@@ -39,7 +39,7 @@ Instructions:
 
   * You! - any help with organizing is highly appreciated!
   * Alexander Bokovoy (ab@samba.org)
-  * Iker Pedrosa
+  * Iker Pedrosa (ipedrosa@redhat.com)
 
 ### Contact
 
