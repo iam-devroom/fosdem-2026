@@ -1,11 +1,10 @@
 # Identity and Access Management Devroom @ FOSDEM'2024
 
 [FOSDEM 2024](https://fosdem.org/2024/) will have a [identity and access management
-devroom](https://fosdem.org/2024/schedule/track/identity_and_access_management), and this
-repository is used for planning it.
+devroom](https://fosdem.org/2024/schedule/track/identity_and_access_management).
 
-The IAM devroom is planned to be run at **either Saturday or Sunday, February
-3-4th, 2024** in Brussels, Belgium at [ULB](http://www.ulb.ac.be/).
+The IAM devroom is planned to be run at **Sunday, February 4th, 2024** in
+Brussels, Belgium at [ULB](http://www.ulb.ac.be/).
 
 ## Our topics this year
 
@@ -13,8 +12,23 @@ This is the Identity and Access Management Devroom and we invite you to submit
 a talk that is relevant to operating systems' identity and access management in
 the free software and open source world.  We don't exclude any relevant
 submission, for ideas and suggestions please check the previous edition of IAM
-devroom at [FOSDEM
-2018](https://archive.fosdem.org/2018/schedule/track/identity_and_access_management/)
+devroom at [FOSDEM 2018](https://archive.fosdem.org/2018/schedule/track/identity_and_access_management/)
+
+Suggested topics:
+
+- Security: algorithms and protocols for IAM/IdM; passwords and password alternatives
+
+- Federated and social identity; leveraging external identities in applications
+
+- Audit, compliance, monitoring
+
+- User experience, desktop integration
+
+- Free software IAM/IdM offerings
+
+- IAM/IdM deployment reports
+
+and more. Don't be shy and show how your project helps to improve our lives.
 
 ## Submissions
 
@@ -29,7 +43,7 @@ migrated: Presenters will have to create a new account.
 
 Instructions:
 
-  * Go to https://fosdem.org/submit
+  * Go to [https://fosdem.org/submit](https://fosdem.org/submit)
   * Register a new account
   * Create a new event with your title and abstract and some information about you
   * Be sure to set the event track to "Identity and Access Management devroom"
