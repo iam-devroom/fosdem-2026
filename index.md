@@ -1,7 +1,7 @@
 # Identity and Access Management Devroom @ FOSDEM'2024
 
-[FOSDEM 2024](https://fosdem.org/2024/) will have a [identity and access management
-devroom](https://fosdem.org/2024/schedule/track/identity_and_access_management).
+[FOSDEM 2024](https://fosdem.org/2024/) will have an [identity and access management
+devroom](https://fosdem.org/2024/schedule/track/identity-and-access-management/).
 
 The IAM devroom is planned to be run at **Sunday, February 4th, 2024** in
 Brussels, Belgium at [ULB](http://www.ulb.ac.be/).
