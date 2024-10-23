@@ -1,30 +1,37 @@
-# Identity and Access Management Devroom @ FOSDEM'2024
+# Identity and Access Management Devroom @ FOSDEM'2025
 
-[FOSDEM 2024](https://fosdem.org/2024/) will have an [identity and access management
-devroom](https://fosdem.org/2024/schedule/track/identity-and-access-management/).
+[FOSDEM 2025](https://fosdem.org/2025/) will have an [identity and access management
+devroom](https://fosdem.org/2025/schedule/track/identity-and-access-management/).
 
-The IAM devroom is planned to be run at **Sunday, February 4th, 2024** in
-Brussels, Belgium at [ULB](http://www.ulb.ac.be/).
+The IAM devroom is scheduled to be held on the weekend of
+**February 1-2, 2025** in Brussels, Belgium at [ULB](http://www.ulb.ac.be/).
+The exact day will be announced when assigned.
 
 ## Our topics this year
 
 This is the Identity and Access Management Devroom and we invite you to submit
 a talk that is relevant to operating systems' identity and access management in
 the free software and open source world.  We don't exclude any relevant
-submission, for ideas and suggestions please check the previous edition of IAM
+submission, for ideas and suggestions please check the previous editions of IAM
 devroom at [FOSDEM 2018](https://archive.fosdem.org/2018/schedule/track/identity_and_access_management/)
+or [FOSDEM 2024](https://archive.fosdem.org/2024/schedule/track/identity-and-access-management/).
 
 Suggested topics:
 
-- Security: algorithms and protocols for IAM/IdM; passwords and password alternatives
+- Security: a particular focus on quantum-resistant cryptography updates in
+  identity management
 
-- Federated and social identity; leveraging external identities in applications
+- Passwordless authentication mechanisms: OAuth2, FIDO2, PIV...
 
-- Audit, compliance, monitoring
+- Federated and social identity; leveraging external identities at operating
+  systems level
 
 - User experience, desktop integration
 
-- Free software IAM/IdM offerings
+- Free software IAM offerings; migrating from or integrating with proprietary
+  solutions
+
+- Audit, compliance and monitoring
 
 - IAM/IdM deployment reports
 
@@ -34,12 +41,13 @@ and more. Don't be shy and show how your project helps to improve our lives.
 
 Submissions require a small abstract and a short speaker description and must
 be submitted [via the Pretalx system](https://fosdem.org/submit) no later than
-**1st of December 2023**. Suggested duration for a timeslot to apply for is
+**1st of December 2024**. Suggested duration for a timeslot to apply for is
 **25 minutes** (20 min presentation + 5 mins questions). The schedule shall be
-finalized by **15 December 2023**.
+finalized by **15 December 2024**.
 
-Note that this is a new submission system and accounts from pentabarf were not
-migrated: Presenters will have to create a new account.
+Note that last year the system was changed from pentabarf to pretalx and the
+accounts were not migrated. So if last year you did not submit any talk
+proposals this year you will have to create a new account.
 
 Instructions:
 
@@ -47,7 +55,8 @@ Instructions:
   * Register a new account
   * Create a new event with your title and abstract and some information about you
   * Be sure to set the event track to "Identity and Access Management devroom"
-  * Subscribe to the [iam-devroom@lists.fosdem.org](https://lists.fosdem.org/listinfo/iam-devroom) mailing list for announcements
+  * Subscribe to the [iam-devroom@lists.fosdem.org](https://lists.fosdem.org/listinfo/iam-devroom)
+    mailing list for announcements
 
 ### Organizers
 
@@ -58,4 +67,3 @@ Instructions:
 ### Contact
 
 [iam-devroom@lists.fosdem.org](https://lists.fosdem.org/listinfo/iam-devroom)
-
