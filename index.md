@@ -3,9 +3,9 @@
 [FOSDEM 2025](https://fosdem.org/2025/) will have an [identity and access management
 devroom](https://fosdem.org/2025/schedule/track/identity-and-access-management/).
 
-The IAM devroom is scheduled to be held on the weekend of
-**February 1-2, 2025** in Brussels, Belgium at [ULB](http://www.ulb.ac.be/).
-The exact day will be announced when assigned.
+The IAM devroom is scheduled to be held on the **Sunday**,
+**February 2nd, 2025** in Brussels, Belgium at [ULB](http://www.ulb.ac.be/).
+Exact room allocation will be known in December 2024.
 
 ## Our topics this year
 
