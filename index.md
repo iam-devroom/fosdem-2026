@@ -1,68 +1,77 @@
-# Identity and Access Management Devroom @ FOSDEM'2025
+# Identity and Access Management Devroom @ FOSDEM 2026
 
-[FOSDEM 2025](https://fosdem.org/2025/) will have an [identity and access management
-devroom](https://fosdem.org/2025/schedule/track/iam/).
+[FOSDEM 2026](https://fosdem.org/2026/) will once again have an
+[Identity and Access Management devroom](https://fosdem.org/2026/schedule/track/iam/),
+following its successful runs in 2018, 2024, and 2025.
 
-The IAM devroom is scheduled to be held on the **Sunday**,
-**February 2nd, 2025** in Brussels, Belgium at [ULB](http://www.ulb.ac.be/).
-Exact room allocation will be known in December 2024.
+The IAM devroom is scheduled to be held on **Sunday, February 1st, 2026**
+in Brussels, Belgium at [ULB](https://www.ulb.be/).
+Exact room allocation will be known in December 2025.
 
 ## Our topics this year
 
-This is the Identity and Access Management Devroom and we invite you to submit
-a talk that is relevant to operating systems' identity and access management in
-the free software and open source world.  We don't exclude any relevant
-submission, for ideas and suggestions please check the previous editions of IAM
-devroom at [FOSDEM 2018](https://archive.fosdem.org/2018/schedule/track/identity_and_access_management/)
-or [FOSDEM 2024](https://archive.fosdem.org/2024/schedule/track/identity-and-access-management/).
+This is the Identity and Access Management Devroom.
+We invite you to submit a talk that is relevant to operating systems’ identity and access management
+in the free software and open source world.
 
-Suggested topics:
+We don’t exclude any relevant submission; for ideas and suggestions,
+please check the previous editions of the IAM devroom
+([2018](https://archive.fosdem.org/2018/schedule/track/identity_and_access_management/),
+[2024](https://archive.fosdem.org/2024/schedule/track/identity-and-access-management/),
+[2025](https://archive.fosdem.org/2025/schedule/track/iam/)).
 
-- Security: a particular focus on quantum-resistant cryptography updates in
-  identity management
+Suggested topics, based on our 2026 proposal, include:
 
-- Passwordless authentication mechanisms: OAuth2, FIDO2, PIV...
+**The future of authentication:**
+* The path to ubiquitous Passwordless: Passkeys, FIDO2, OAuth2, and PIV in practice
+for operating system access.
+* Beyond Centralization: Decentralized Identity (DIDs) and Verifiable Credentials (VCs) in FOSS.
+* Integrating federated and social identities at the operating system level.
 
-- Federated and social identity; leveraging external identities at operating
-  systems level
+**Core infrastructure & security:**
+* Preparing for Y2Q: Implementing quantum-resistant cryptography (QRC) in authentication protocols.
+* DNS and Identity: Securing enterprise and personal domains for identity services.
+* Identity in the Software Supply Chain (e.g., how identity concepts apply to services like Sigstore).
 
-- User experience, desktop integration
+**User experience & integration:**
+* Integrating modern authentication across desktop environments (GNOME, KDE)
+and system administration toolchains.
+* Improving the user experience for multi-factor authentication.
 
-- Free software IAM offerings; migrating from or integrating with proprietary
-  solutions
+**Project showcases & case studies:**
+* Free software IAM offerings; migrating from or integrating with proprietary solutions.
+* IAM/IdM deployment reports and real-world case studies.
 
-- Audit, compliance and monitoring
-
-- IAM/IdM deployment reports
-
-and more. Don't be shy and show how your project helps to improve our lives.
+...and more. Don’t be shy and show how your project helps to improve our lives.
 
 ## Submissions
 
-Submissions require a small abstract and a short speaker description and must
-be submitted [via the Pretalx system](https://fosdem.org/submit) no later than
-**1st of December 2024**. Suggested duration for a timeslot to apply for is
-**25 minutes** (20 min presentation + 5 mins questions). The schedule shall be
-finalized by **15 December 2024**.
+Submissions require a small abstract and a short speaker description.
+They must be submitted [via the Pretalx system](https://pretalx.fosdem.org/fosdem-2026/cfp)
+no later than **30th of November 2025**.
+Suggested duration for a timeslot to apply for is **25 minutes**
+(20 min presentation + 5 mins questions).
+The schedule shall be finalized by **15 December 2025**.
 
-Note that last year the system was changed from pentabarf to pretalx and the
-accounts were not migrated. So if last year you did not submit any talk
-proposals this year you will have to create a new account.
+Note that FOSDEM continues to use Pretalx.
+If you created an account to submit a proposal for FOSDEM 2025,
+you should be able to reuse it.
+Otherwise, you will need to create a new account.
 
-Instructions:
+**Instructions:**
 
-  * Go to [https://fosdem.org/submit](https://fosdem.org/submit)
-  * Register a new account
-  * Create a new event with your title and abstract and some information about you
-  * Be sure to set the event track to "Identity and Access Management devroom"
-  * Subscribe to the [iam-devroom@lists.fosdem.org](https://lists.fosdem.org/listinfo/iam-devroom)
-    mailing list for announcements
+1.  Go to [https://fosdem.org/submit](https://fosdem.org/submit).
+2.  Register a new account or log in with your existing account.
+3.  Create a new event with your title, abstract, and some information about you.
+4.  Be sure to set the event track to “**Identity and Access Management devroom**”.
+5.  Subscribe to the [iam-devroom@lists.fosdem.org](https://lists.fosdem.org/listinfo/iam-devroom)
+mailing list for announcements.
 
 ### Organizers
 
-  * You! - any help with organizing is highly appreciated!
-  * Alexander Bokovoy (ab@samba.org)
-  * Iker Pedrosa (ipedrosa@redhat.com)
+* *You!* - any help with organizing is highly appreciated!
+* Alexander Bokovoy (ab@samba.org)
+* Iker Pedrosa (ipedrosa@redhat.com)
 
 ### Contact
 
