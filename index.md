@@ -1,7 +1,7 @@
 # Identity and Access Management Devroom @ FOSDEM 2026
 
 [FOSDEM 2026](https://fosdem.org/2026/) will once again have an
-[Identity and Access Management devroom](https://fosdem.org/2026/schedule/track/iam/),
+[Identity and Access Management devroom](https://fosdem.org/2026/schedule/track/identity-and-access-management/),
 following its successful runs in 2018, 2024, and 2025.
 
 The IAM devroom is scheduled to be held on **Sunday, February 1st, 2026**
